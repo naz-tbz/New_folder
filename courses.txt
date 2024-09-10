@@ -1,6 +1,5 @@
-"" 
 "Data Structures and Algorithms" 
-"Introduction to Maketing" 
+"Introduction to Marketing" 
 "Mobile App Development - Android" 
 "Principles of GUI Design and Programming" 
 "Software Project Management" 
